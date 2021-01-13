@@ -1,0 +1,36 @@
+{
+    "InvoiceTable": [
+        {
+            "PutRequest": {
+                "Item": {
+      "customerid": {
+        "N": "59"
+      },
+      "customername": {
+        "S": "Francisco Paul"
+      },
+      "invoicenumber": {
+        "N": "5012"
+      },
+      "city": {
+        "S": "Udulupo"
+      },
+      "location": {
+        "S": "NJ"
+      },
+      "zip": {
+        "N": "51695"
+      },
+      "email": {
+        "S": "himibifup@bowjevoso.pw"
+      },
+      "phoneno": {
+        "S": "(532) 681-2742"
+      },
+      "amount": {
+        "S": "$1148.94"
+} }
+            }
+         }
+    ]
+}

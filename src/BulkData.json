@@ -1,0 +1,2809 @@
+{
+  "InvoiceTable": [
+{
+"PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "50"
+    },
+    "customername": {
+      "S": "Beulah Reeves"
+    },
+    "invoicenumber": {
+      "N": "1855"
+    },
+    "city": {
+      "S": "Zosuddag"
+    },
+    "location": {
+      "S": "NH"
+    },
+    "zip": {
+      "N": "83340"
+    },
+    "email": {
+      "S": "huteraze@dehev.bb"
+    },
+    "phoneno": {
+      "S": "(311) 576-4879"
+    },
+    "amount": {
+      "S": "$7288.15"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "51"
+    },
+    "customername": {
+      "S": "Stella Howell"
+    },
+    "invoicenumber": {
+      "N": "1234"
+    },
+    "city": {
+      "S": "Siswickov"
+    },
+    "location": {
+      "S": "ND"
+    },
+    "zip": {
+      "N": "8336"
+    },
+    "email": {
+      "S": "ga@gamif.bg"
+    },
+    "phoneno": {
+      "S": "(804) 621-4243"
+    },
+    "amount": {
+      "S": "$7464.23"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "52"
+    },
+    "customername": {
+      "S": "Marguerite Newman"
+    },
+    "invoicenumber": {
+      "N": "3419"
+    },
+    "city": {
+      "S": "Pijemuc"
+    },
+    "location": {
+      "S": "TX"
+    },
+    "zip": {
+      "N": "56747"
+    },
+    "email": {
+      "S": "ibucizur@uk.org"
+    },
+    "phoneno": {
+      "S": "(778) 292-5241"
+    },
+    "amount": {
+      "S": "$5091.88"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "53"
+    },
+    "customername": {
+      "S": "Pauline Saunders"
+    },
+    "invoicenumber": {
+      "N": "7732"
+    },
+    "city": {
+      "S": "Wocvavo"
+    },
+    "location": {
+      "S": "VT"
+    },
+    "zip": {
+      "N": "43000"
+    },
+    "email": {
+      "S": "asokeh@biccutva.pe"
+    },
+    "phoneno": {
+      "S": "(579) 490-7802"
+    },
+    "amount": {
+      "S": "$5654.13"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "54"
+    },
+    "customername": {
+      "S": "Terry Hopkins"
+    },
+    "invoicenumber": {
+      "N": "873"
+    },
+    "city": {
+      "S": "Wapcuphu"
+    },
+    "location": {
+      "S": "CA"
+    },
+    "zip": {
+      "N": "58898"
+    },
+    "email": {
+      "S": "vi@ugvukced.bj"
+    },
+    "phoneno": {
+      "S": "(874) 530-1005"
+    },
+    "amount": {
+      "S": "$7026.85"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "55"
+    },
+    "customername": {
+      "S": "Jim Oliver"
+    },
+    "invoicenumber": {
+      "N": "7447"
+    },
+    "city": {
+      "S": "Oznejki"
+    },
+    "location": {
+      "S": "WV"
+    },
+    "zip": {
+      "N": "36213"
+    },
+    "email": {
+      "S": "kanojehij@ma.co"
+    },
+    "phoneno": {
+      "S": "(350) 663-8280"
+    },
+    "amount": {
+      "S": "$9734.88"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "56"
+    },
+    "customername": {
+      "S": "Rosalie Austin"
+    },
+    "invoicenumber": {
+      "N": "9374"
+    },
+    "city": {
+      "S": "Kejsigron"
+    },
+    "location": {
+      "S": "PA"
+    },
+    "zip": {
+      "N": "83212"
+    },
+    "email": {
+      "S": "vuivwet@lulpeogo.st"
+    },
+    "phoneno": {
+      "S": "(954) 850-2774"
+    },
+    "amount": {
+      "S": "$8659.44"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "57"
+    },
+    "customername": {
+      "S": "Paul Cross"
+    },
+    "invoicenumber": {
+      "N": "8944"
+    },
+    "city": {
+      "S": "Itipeomu"
+    },
+    "location": {
+      "S": "NV"
+    },
+    "zip": {
+      "N": "46308"
+    },
+    "email": {
+      "S": "piesasa@gukvusges.sh"
+    },
+    "phoneno": {
+      "S": "(814) 393-4708"
+    },
+    "amount": {
+      "S": "$8352.54"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "58"
+    },
+    "customername": {
+      "S": "Evelyn Stanley"
+    },
+    "invoicenumber": {
+      "N": "1097"
+    },
+    "city": {
+      "S": "Ruknije"
+    },
+    "location": {
+      "S": "IL"
+    },
+    "zip": {
+      "N": "78404"
+    },
+    "email": {
+      "S": "dehsef@fa.cl"
+    },
+    "phoneno": {
+      "S": "(739) 449-4877"
+    },
+    "amount": {
+      "S": "$6887.28"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "59"
+    },
+    "customername": {
+      "S": "Francisco Paul"
+    },
+    "invoicenumber": {
+      "N": "5012"
+    },
+    "city": {
+      "S": "Udulupo"
+    },
+    "location": {
+      "S": "NJ"
+    },
+    "zip": {
+      "N": "51695"
+    },
+    "email": {
+      "S": "himibifup@bowjevoso.pw"
+    },
+    "phoneno": {
+      "S": "(532) 681-2742"
+    },
+    "amount": {
+      "S": "$1148.94"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "60"
+    },
+    "customername": {
+      "S": "Francisco Hogan"
+    },
+    "invoicenumber": {
+      "N": "8449"
+    },
+    "city": {
+      "S": "Zipilreh"
+    },
+    "location": {
+      "S": "HI"
+    },
+    "zip": {
+      "N": "38212"
+    },
+    "email": {
+      "S": "refup@tape.id"
+    },
+    "phoneno": {
+      "S": "(717) 781-3924"
+    },
+    "amount": {
+      "S": "$3603.06"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "61"
+    },
+    "customername": {
+      "S": "Celia Ortiz"
+    },
+    "invoicenumber": {
+      "N": "1182"
+    },
+    "city": {
+      "S": "Tespozov"
+    },
+    "location": {
+      "S": "OH"
+    },
+    "zip": {
+      "N": "19750"
+    },
+    "email": {
+      "S": "idizecu@oza.ht"
+    },
+    "phoneno": {
+      "S": "(963) 857-5012"
+    },
+    "amount": {
+      "S": "$5932.29"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "62"
+    },
+    "customername": {
+      "S": "Alejandro Reeves"
+    },
+    "invoicenumber": {
+      "N": "5356"
+    },
+    "city": {
+      "S": "Vovpegsar"
+    },
+    "location": {
+      "S": "KS"
+    },
+    "zip": {
+      "N": "47783"
+    },
+    "email": {
+      "S": "aso@dudcoub.bb"
+    },
+    "phoneno": {
+      "S": "(708) 571-6193"
+    },
+    "amount": {
+      "S": "$2205.18"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "63"
+    },
+    "customername": {
+      "S": "Max Burgess"
+    },
+    "invoicenumber": {
+      "N": "6325"
+    },
+    "city": {
+      "S": "Reldosze"
+    },
+    "location": {
+      "S": "NM"
+    },
+    "zip": {
+      "N": "23117"
+    },
+    "email": {
+      "S": "ne@sasuh.es"
+    },
+    "phoneno": {
+      "S": "(271) 211-5153"
+    },
+    "amount": {
+      "S": "$9033.92"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "64"
+    },
+    "customername": {
+      "S": "Esther Wheeler"
+    },
+    "invoicenumber": {
+      "N": "2470"
+    },
+    "city": {
+      "S": "Ilafozib"
+    },
+    "location": {
+      "S": "IN"
+    },
+    "zip": {
+      "N": "96303"
+    },
+    "email": {
+      "S": "afeepja@ej.ph"
+    },
+    "phoneno": {
+      "S": "(807) 773-7226"
+    },
+    "amount": {
+      "S": "$5390.59"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "65"
+    },
+    "customername": {
+      "S": "Clarence Cruz"
+    },
+    "invoicenumber": {
+      "N": "7087"
+    },
+    "city": {
+      "S": "Jupilgo"
+    },
+    "location": {
+      "S": "VA"
+    },
+    "zip": {
+      "N": "60400"
+    },
+    "email": {
+      "S": "jaklefit@fosel.vg"
+    },
+    "phoneno": {
+      "S": "(749) 614-9106"
+    },
+    "amount": {
+      "S": "$2809.59"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "66"
+    },
+    "customername": {
+      "S": "Lester Watkins"
+    },
+    "invoicenumber": {
+      "N": "2737"
+    },
+    "city": {
+      "S": "Cufidwal"
+    },
+    "location": {
+      "S": "IA"
+    },
+    "zip": {
+      "N": "98713"
+    },
+    "email": {
+      "S": "bifad@enu.mx"
+    },
+    "phoneno": {
+      "S": "(732) 257-6278"
+    },
+    "amount": {
+      "S": "$1702.19"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "67"
+    },
+    "customername": {
+      "S": "Gilbert Oliver"
+    },
+    "invoicenumber": {
+      "N": "6481"
+    },
+    "city": {
+      "S": "Nuegiapo"
+    },
+    "location": {
+      "S": "CT"
+    },
+    "zip": {
+      "N": "55406"
+    },
+    "email": {
+      "S": "vetwijto@bok.ax"
+    },
+    "phoneno": {
+      "S": "(386) 793-3909"
+    },
+    "amount": {
+      "S": "$1650.17"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "68"
+    },
+    "customername": {
+      "S": "Russell Obrien"
+    },
+    "invoicenumber": {
+      "N": "850"
+    },
+    "city": {
+      "S": "Luezvi"
+    },
+    "location": {
+      "S": "NV"
+    },
+    "zip": {
+      "N": "52038"
+    },
+    "email": {
+      "S": "olhod@jab.vc"
+    },
+    "phoneno": {
+      "S": "(354) 867-7179"
+    },
+    "amount": {
+      "S": "$8057.38"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "69"
+    },
+    "customername": {
+      "S": "Jimmy Hogan"
+    },
+    "invoicenumber": {
+      "N": "353"
+    },
+    "city": {
+      "S": "Vevinew"
+    },
+    "location": {
+      "S": "MO"
+    },
+    "zip": {
+      "N": "51914"
+    },
+    "email": {
+      "S": "wu@emipe.gw"
+    },
+    "phoneno": {
+      "S": "(511) 255-2072"
+    },
+    "amount": {
+      "S": "$5708.19"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "70"
+    },
+    "customername": {
+      "S": "Sara Maldonado"
+    },
+    "invoicenumber": {
+      "N": "1520"
+    },
+    "city": {
+      "S": "Wienhi"
+    },
+    "location": {
+      "S": "TX"
+    },
+    "zip": {
+      "N": "65369"
+    },
+    "email": {
+      "S": "do@vav.bg"
+    },
+    "phoneno": {
+      "S": "(966) 721-4567"
+    },
+    "amount": {
+      "S": "$4053.67"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "71"
+    },
+    "customername": {
+      "S": "Tom Payne"
+    },
+    "invoicenumber": {
+      "N": "286"
+    },
+    "city": {
+      "S": "Nijdivat"
+    },
+    "location": {
+      "S": "AL"
+    },
+    "zip": {
+      "N": "60725"
+    },
+    "email": {
+      "S": "jastoru@ranu.it"
+    },
+    "phoneno": {
+      "S": "(813) 625-3913"
+    },
+    "amount": {
+      "S": "$9493.52"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "72"
+    },
+    "customername": {
+      "S": "Ronnie Hernandez"
+    },
+    "invoicenumber": {
+      "N": "7238"
+    },
+    "city": {
+      "S": "Zuvodni"
+    },
+    "location": {
+      "S": "AL"
+    },
+    "zip": {
+      "N": "73707"
+    },
+    "email": {
+      "S": "soik@bi.cx"
+    },
+    "phoneno": {
+      "S": "(238) 877-3787"
+    },
+    "amount": {
+      "S": "$5069.16"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "73"
+    },
+    "customername": {
+      "S": "Henry Bowen"
+    },
+    "invoicenumber": {
+      "N": "4796"
+    },
+    "city": {
+      "S": "Bodbejup"
+    },
+    "location": {
+      "S": "FL"
+    },
+    "zip": {
+      "N": "25649"
+    },
+    "email": {
+      "S": "paza@nonuvu.er"
+    },
+    "phoneno": {
+      "S": "(657) 881-5288"
+    },
+    "amount": {
+      "S": "$6140.74"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "74"
+    },
+    "customername": {
+      "S": "Etta Bowen"
+    },
+    "invoicenumber": {
+      "N": "8033"
+    },
+    "city": {
+      "S": "Covrajav"
+    },
+    "location": {
+      "S": "PA"
+    },
+    "zip": {
+      "N": "45460"
+    },
+    "email": {
+      "S": "jiidrud@ce.pm"
+    },
+    "phoneno": {
+      "S": "(929) 658-2113"
+    },
+    "amount": {
+      "S": "$3862.53"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "75"
+    },
+    "customername": {
+      "S": "Fanny Johnston"
+    },
+    "invoicenumber": {
+      "N": "4590"
+    },
+    "city": {
+      "S": "Afmigwon"
+    },
+    "location": {
+      "S": "MS"
+    },
+    "zip": {
+      "N": "77961"
+    },
+    "email": {
+      "S": "ihjispe@kekrot.dk"
+    },
+    "phoneno": {
+      "S": "(260) 452-1511"
+    },
+    "amount": {
+      "S": "$8994.71"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "76"
+    },
+    "customername": {
+      "S": "Hettie Flowers"
+    },
+    "invoicenumber": {
+      "N": "3046"
+    },
+    "city": {
+      "S": "Niuseure"
+    },
+    "location": {
+      "S": "NC"
+    },
+    "zip": {
+      "N": "94864"
+    },
+    "email": {
+      "S": "igi@la.ng"
+    },
+    "phoneno": {
+      "S": "(756) 647-1909"
+    },
+    "amount": {
+      "S": "$9537.07"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "77"
+    },
+    "customername": {
+      "S": "Mary Greene"
+    },
+    "invoicenumber": {
+      "N": "9123"
+    },
+    "city": {
+      "S": "Fojamhu"
+    },
+    "location": {
+      "S": "NH"
+    },
+    "zip": {
+      "N": "15771"
+    },
+    "email": {
+      "S": "ajiz@isgelez.ae"
+    },
+    "phoneno": {
+      "S": "(980) 246-7995"
+    },
+    "amount": {
+      "S": "$9560.19"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "78"
+    },
+    "customername": {
+      "S": "Chad Aguilar"
+    },
+    "invoicenumber": {
+      "N": "9836"
+    },
+    "city": {
+      "S": "Hofavzo"
+    },
+    "location": {
+      "S": "DE"
+    },
+    "zip": {
+      "N": "81011"
+    },
+    "email": {
+      "S": "fon@ecticed.do"
+    },
+    "phoneno": {
+      "S": "(335) 339-2070"
+    },
+    "amount": {
+      "S": "$8729.33"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "79"
+    },
+    "customername": {
+      "S": "Caroline Norton"
+    },
+    "invoicenumber": {
+      "N": "8257"
+    },
+    "city": {
+      "S": "Cewgoduv"
+    },
+    "location": {
+      "S": "NE"
+    },
+    "zip": {
+      "N": "13216"
+    },
+    "email": {
+      "S": "cedu@loavdad.ca"
+    },
+    "phoneno": {
+      "S": "(303) 543-3182"
+    },
+    "amount": {
+      "S": "$583.67"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "80"
+    },
+    "customername": {
+      "S": "Jorge Goodwin"
+    },
+    "invoicenumber": {
+      "N": "460"
+    },
+    "city": {
+      "S": "Amvifgaf"
+    },
+    "location": {
+      "S": "MN"
+    },
+    "zip": {
+      "N": "26761"
+    },
+    "email": {
+      "S": "juili@va.gov"
+    },
+    "phoneno": {
+      "S": "(440) 239-5506"
+    },
+    "amount": {
+      "S": "$4271.38"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "81"
+    },
+    "customername": {
+      "S": "Fred Kennedy"
+    },
+    "invoicenumber": {
+      "N": "1944"
+    },
+    "city": {
+      "S": "Pondedi"
+    },
+    "location": {
+      "S": "NJ"
+    },
+    "zip": {
+      "N": "45276"
+    },
+    "email": {
+      "S": "ece@giilu.gt"
+    },
+    "phoneno": {
+      "S": "(701) 852-6156"
+    },
+    "amount": {
+      "S": "$8093.13"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "82"
+    },
+    "customername": {
+      "S": "Nettie Rivera"
+    },
+    "invoicenumber": {
+      "N": "8600"
+    },
+    "city": {
+      "S": "Liskawor"
+    },
+    "location": {
+      "S": "ID"
+    },
+    "zip": {
+      "N": "81411"
+    },
+    "email": {
+      "S": "av@osrab.in"
+    },
+    "phoneno": {
+      "S": "(774) 338-6969"
+    },
+    "amount": {
+      "S": "$1110.80"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "83"
+    },
+    "customername": {
+      "S": "Ida Robbins"
+    },
+    "invoicenumber": {
+      "N": "4392"
+    },
+    "city": {
+      "S": "Evibaji"
+    },
+    "location": {
+      "S": "CT"
+    },
+    "zip": {
+      "N": "17625"
+    },
+    "email": {
+      "S": "zefizona@og.eg"
+    },
+    "phoneno": {
+      "S": "(888) 367-8968"
+    },
+    "amount": {
+      "S": "$2348.18"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "84"
+    },
+    "customername": {
+      "S": "Francisco Saunders"
+    },
+    "invoicenumber": {
+      "N": "1183"
+    },
+    "city": {
+      "S": "Washizce"
+    },
+    "location": {
+      "S": "IN"
+    },
+    "zip": {
+      "N": "3147"
+    },
+    "email": {
+      "S": "lolizir@uweroh.me"
+    },
+    "phoneno": {
+      "S": "(978) 238-4836"
+    },
+    "amount": {
+      "S": "$5788.41"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "85"
+    },
+    "customername": {
+      "S": "Marion Jennings"
+    },
+    "invoicenumber": {
+      "N": "5449"
+    },
+    "city": {
+      "S": "Govbeib"
+    },
+    "location": {
+      "S": "SD"
+    },
+    "zip": {
+      "N": "22318"
+    },
+    "email": {
+      "S": "to@cazadob.uk"
+    },
+    "phoneno": {
+      "S": "(511) 820-3034"
+    },
+    "amount": {
+      "S": "$352.49"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "86"
+    },
+    "customername": {
+      "S": "Olive Meyer"
+    },
+    "invoicenumber": {
+      "N": "7335"
+    },
+    "city": {
+      "S": "Biggigup"
+    },
+    "location": {
+      "S": "MN"
+    },
+    "zip": {
+      "N": "31013"
+    },
+    "email": {
+      "S": "opcot@kevidrud.ps"
+    },
+    "phoneno": {
+      "S": "(330) 824-3895"
+    },
+    "amount": {
+      "S": "$3171.96"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "87"
+    },
+    "customername": {
+      "S": "Sophie Romero"
+    },
+    "invoicenumber": {
+      "N": "1177"
+    },
+    "city": {
+      "S": "Pibpubdim"
+    },
+    "location": {
+      "S": "AL"
+    },
+    "zip": {
+      "N": "89724"
+    },
+    "email": {
+      "S": "bagcoatu@vad.fo"
+    },
+    "phoneno": {
+      "S": "(651) 911-7079"
+    },
+    "amount": {
+      "S": "$365.24"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "88"
+    },
+    "customername": {
+      "S": "Randy Brooks"
+    },
+    "invoicenumber": {
+      "N": "4306"
+    },
+    "city": {
+      "S": "Wowmosom"
+    },
+    "location": {
+      "S": "OK"
+    },
+    "zip": {
+      "N": "48972"
+    },
+    "email": {
+      "S": "fafipe@mi.de"
+    },
+    "phoneno": {
+      "S": "(909) 958-2881"
+    },
+    "amount": {
+      "S": "$8778.71"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "89"
+    },
+    "customername": {
+      "S": "Lottie Crawford"
+    },
+    "invoicenumber": {
+      "N": "3075"
+    },
+    "city": {
+      "S": "Beedel"
+    },
+    "location": {
+      "S": "CT"
+    },
+    "zip": {
+      "N": "77916"
+    },
+    "email": {
+      "S": "kuw@evehitme.vn"
+    },
+    "phoneno": {
+      "S": "(850) 321-3490"
+    },
+    "amount": {
+      "S": "$4732.97"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "90"
+    },
+    "customername": {
+      "S": "Cole Mack"
+    },
+    "invoicenumber": {
+      "N": "5262"
+    },
+    "city": {
+      "S": "Cumjocboj"
+    },
+    "location": {
+      "S": "WI"
+    },
+    "zip": {
+      "N": "81400"
+    },
+    "email": {
+      "S": "isevep@agsu.lu"
+    },
+    "phoneno": {
+      "S": "(957) 910-3881"
+    },
+    "amount": {
+      "S": "$5512.21"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "91"
+    },
+    "customername": {
+      "S": "Emma Schwartz"
+    },
+    "invoicenumber": {
+      "N": "9952"
+    },
+    "city": {
+      "S": "Guljodnig"
+    },
+    "location": {
+      "S": "DE"
+    },
+    "zip": {
+      "N": "66131"
+    },
+    "email": {
+      "S": "pavem@ip.wf"
+    },
+    "phoneno": {
+      "S": "(954) 281-2285"
+    },
+    "amount": {
+      "S": "$7283.73"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "92"
+    },
+    "customername": {
+      "S": "Rena Manning"
+    },
+    "invoicenumber": {
+      "N": "7241"
+    },
+    "city": {
+      "S": "Kamojina"
+    },
+    "location": {
+      "S": "NM"
+    },
+    "zip": {
+      "N": "77670"
+    },
+    "email": {
+      "S": "fida@mesaslez.az"
+    },
+    "phoneno": {
+      "S": "(956) 352-9389"
+    },
+    "amount": {
+      "S": "$975.71"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "93"
+    },
+    "customername": {
+      "S": "Lilly Malone"
+    },
+    "invoicenumber": {
+      "N": "8446"
+    },
+    "city": {
+      "S": "Jodzowaw"
+    },
+    "location": {
+      "S": "AK"
+    },
+    "zip": {
+      "N": "98486"
+    },
+    "email": {
+      "S": "coghecim@ce.eh"
+    },
+    "phoneno": {
+      "S": "(980) 618-4020"
+    },
+    "amount": {
+      "S": "$2208.67"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "94"
+    },
+    "customername": {
+      "S": "Russell Diaz"
+    },
+    "invoicenumber": {
+      "N": "6611"
+    },
+    "city": {
+      "S": "Bewove"
+    },
+    "location": {
+      "S": "HI"
+    },
+    "zip": {
+      "N": "69822"
+    },
+    "email": {
+      "S": "bu@zi.bo"
+    },
+    "phoneno": {
+      "S": "(806) 831-4677"
+    },
+    "amount": {
+      "S": "$8738.79"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "95"
+    },
+    "customername": {
+      "S": "Emily Roy"
+    },
+    "invoicenumber": {
+      "N": "7705"
+    },
+    "city": {
+      "S": "Zinerwaf"
+    },
+    "location": {
+      "S": "FL"
+    },
+    "zip": {
+      "N": "4264"
+    },
+    "email": {
+      "S": "lazfu@ca.ie"
+    },
+    "phoneno": {
+      "S": "(421) 516-9446"
+    },
+    "amount": {
+      "S": "$1561.24"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "96"
+    },
+    "customername": {
+      "S": "Bill Bennett"
+    },
+    "invoicenumber": {
+      "N": "9754"
+    },
+    "city": {
+      "S": "Nawsiju"
+    },
+    "location": {
+      "S": "WY"
+    },
+    "zip": {
+      "N": "62438"
+    },
+    "email": {
+      "S": "ukausmod@dekicin.org"
+    },
+    "phoneno": {
+      "S": "(356) 816-7087"
+    },
+    "amount": {
+      "S": "$1851.98"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "97"
+    },
+    "customername": {
+      "S": "Isabel Hill"
+    },
+    "invoicenumber": {
+      "N": "4881"
+    },
+    "city": {
+      "S": "Bapuvazi"
+    },
+    "location": {
+      "S": "KS"
+    },
+    "zip": {
+      "N": "35358"
+    },
+    "email": {
+      "S": "dos@kiwuper.cf"
+    },
+    "phoneno": {
+      "S": "(753) 501-6307"
+    },
+    "amount": {
+      "S": "$9050.47"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "98"
+    },
+    "customername": {
+      "S": "Leona Pope"
+    },
+    "invoicenumber": {
+      "N": "8802"
+    },
+    "city": {
+      "S": "Asefihwog"
+    },
+    "location": {
+      "S": "NE"
+    },
+    "zip": {
+      "N": "97008"
+    },
+    "email": {
+      "S": "iwdo@golle.mx"
+    },
+    "phoneno": {
+      "S": "(722) 669-1799"
+    },
+    "amount": {
+      "S": "$6519.21"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "99"
+    },
+    "customername": {
+      "S": "Cornelia Obrien"
+    },
+    "invoicenumber": {
+      "N": "1528"
+    },
+    "city": {
+      "S": "Cedrubdo"
+    },
+    "location": {
+      "S": "CA"
+    },
+    "zip": {
+      "N": "93513"
+    },
+    "email": {
+      "S": "cin@udu.de"
+    },
+    "phoneno": {
+      "S": "(948) 519-4752"
+    },
+    "amount": {
+      "S": "$6564.45"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "100"
+    },
+    "customername": {
+      "S": "Frank Thomas"
+    },
+    "invoicenumber": {
+      "N": "746"
+    },
+    "city": {
+      "S": "Pirkiic"
+    },
+    "location": {
+      "S": "CA"
+    },
+    "zip": {
+      "N": "6758"
+    },
+    "email": {
+      "S": "giru@lepuvhi.bn"
+    },
+    "phoneno": {
+      "S": "(203) 430-7786"
+    },
+    "amount": {
+      "S": "$8347.89"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "101"
+    },
+    "customername": {
+      "S": "Arthur Cruz"
+    },
+    "invoicenumber": {
+      "N": "6704"
+    },
+    "city": {
+      "S": "Niildis"
+    },
+    "location": {
+      "S": "NE"
+    },
+    "zip": {
+      "N": "80387"
+    },
+    "email": {
+      "S": "digwu@movuja.iq"
+    },
+    "phoneno": {
+      "S": "(813) 342-3090"
+    },
+    "amount": {
+      "S": "$3660.87"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "102"
+    },
+    "customername": {
+      "S": "Lelia Hubbard"
+    },
+    "invoicenumber": {
+      "N": "6456"
+    },
+    "city": {
+      "S": "Ofeluoha"
+    },
+    "location": {
+      "S": "MS"
+    },
+    "zip": {
+      "N": "89610"
+    },
+    "email": {
+      "S": "bus@pola.kw"
+    },
+    "phoneno": {
+      "S": "(329) 921-7160"
+    },
+    "amount": {
+      "S": "$884.68"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "103"
+    },
+    "customername": {
+      "S": "Ada Harris"
+    },
+    "invoicenumber": {
+      "N": "5563"
+    },
+    "city": {
+      "S": "Sowihug"
+    },
+    "location": {
+      "S": "AZ"
+    },
+    "zip": {
+      "N": "39328"
+    },
+    "email": {
+      "S": "iduduhu@netujow.jo"
+    },
+    "phoneno": {
+      "S": "(378) 257-5536"
+    },
+    "amount": {
+      "S": "$6630.60"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "104"
+    },
+    "customername": {
+      "S": "Noah Cobb"
+    },
+    "invoicenumber": {
+      "N": "8232"
+    },
+    "city": {
+      "S": "Vorfiwwe"
+    },
+    "location": {
+      "S": "WI"
+    },
+    "zip": {
+      "N": "78104"
+    },
+    "email": {
+      "S": "ricu@eveuke.ba"
+    },
+    "phoneno": {
+      "S": "(644) 951-7870"
+    },
+    "amount": {
+      "S": "$1448.51"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "105"
+    },
+    "customername": {
+      "S": "Sam Hudson"
+    },
+    "invoicenumber": {
+      "N": "1494"
+    },
+    "city": {
+      "S": "Opiusamu"
+    },
+    "location": {
+      "S": "DE"
+    },
+    "zip": {
+      "N": "81578"
+    },
+    "email": {
+      "S": "dodelda@me.lr"
+    },
+    "phoneno": {
+      "S": "(765) 900-8663"
+    },
+    "amount": {
+      "S": "$5744.37"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "106"
+    },
+    "customername": {
+      "S": "Sue Hawkins"
+    },
+    "invoicenumber": {
+      "N": "9395"
+    },
+    "city": {
+      "S": "Tiwgirdoj"
+    },
+    "location": {
+      "S": "CA"
+    },
+    "zip": {
+      "N": "2190"
+    },
+    "email": {
+      "S": "si@oscongub.ca"
+    },
+    "phoneno": {
+      "S": "(713) 515-6129"
+    },
+    "amount": {
+      "S": "$3984.13"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "107"
+    },
+    "customername": {
+      "S": "Elsie Evans"
+    },
+    "invoicenumber": {
+      "N": "3790"
+    },
+    "city": {
+      "S": "Ortokwig"
+    },
+    "location": {
+      "S": "MA"
+    },
+    "zip": {
+      "N": "58434"
+    },
+    "email": {
+      "S": "wucamoh@onahejgo.aq"
+    },
+    "phoneno": {
+      "S": "(663) 326-1890"
+    },
+    "amount": {
+      "S": "$2468.56"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "108"
+    },
+    "customername": {
+      "S": "Bertha Wilkerson"
+    },
+    "invoicenumber": {
+      "N": "9724"
+    },
+    "city": {
+      "S": "Raaliim"
+    },
+    "location": {
+      "S": "PA"
+    },
+    "zip": {
+      "N": "50548"
+    },
+    "email": {
+      "S": "uvehutuz@cauzje.mg"
+    },
+    "phoneno": {
+      "S": "(233) 428-2043"
+    },
+    "amount": {
+      "S": "$5002.94"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "109"
+    },
+    "customername": {
+      "S": "Marie Reyes"
+    },
+    "invoicenumber": {
+      "N": "6519"
+    },
+    "city": {
+      "S": "Dustaah"
+    },
+    "location": {
+      "S": "AK"
+    },
+    "zip": {
+      "N": "87815"
+    },
+    "email": {
+      "S": "ado@avegu.jp"
+    },
+    "phoneno": {
+      "S": "(619) 807-5142"
+    },
+    "amount": {
+      "S": "$36.68"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "110"
+    },
+    "customername": {
+      "S": "Dennis Griffin"
+    },
+    "invoicenumber": {
+      "N": "4354"
+    },
+    "city": {
+      "S": "Pabuof"
+    },
+    "location": {
+      "S": "MD"
+    },
+    "zip": {
+      "N": "32957"
+    },
+    "email": {
+      "S": "kituzum@jisom.mg"
+    },
+    "phoneno": {
+      "S": "(885) 472-5557"
+    },
+    "amount": {
+      "S": "$8926.30"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "111"
+    },
+    "customername": {
+      "S": "Justin Jensen"
+    },
+    "invoicenumber": {
+      "N": "1833"
+    },
+    "city": {
+      "S": "Zuacuepa"
+    },
+    "location": {
+      "S": "WV"
+    },
+    "zip": {
+      "N": "11355"
+    },
+    "email": {
+      "S": "rohfapso@zobfogi.ht"
+    },
+    "phoneno": {
+      "S": "(668) 805-8897"
+    },
+    "amount": {
+      "S": "$5321.29"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "112"
+    },
+    "customername": {
+      "S": "Sophia Fox"
+    },
+    "invoicenumber": {
+      "N": "3236"
+    },
+    "city": {
+      "S": "Neholruw"
+    },
+    "location": {
+      "S": "OH"
+    },
+    "zip": {
+      "N": "51850"
+    },
+    "email": {
+      "S": "uta@ahi.fm"
+    },
+    "phoneno": {
+      "S": "(530) 341-4929"
+    },
+    "amount": {
+      "S": "$8139.14"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "113"
+    },
+    "customername": {
+      "S": "Jeremiah Moreno"
+    },
+    "invoicenumber": {
+      "N": "768"
+    },
+    "city": {
+      "S": "Tehebur"
+    },
+    "location": {
+      "S": "MN"
+    },
+    "zip": {
+      "N": "52508"
+    },
+    "email": {
+      "S": "ragis@vawadoohu.gov"
+    },
+    "phoneno": {
+      "S": "(580) 430-2854"
+    },
+    "amount": {
+      "S": "$1518.67"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "114"
+    },
+    "customername": {
+      "S": "Maud Glover"
+    },
+    "invoicenumber": {
+      "N": "4700"
+    },
+    "city": {
+      "S": "Vegopci"
+    },
+    "location": {
+      "S": "LA"
+    },
+    "zip": {
+      "N": "42339"
+    },
+    "email": {
+      "S": "cutucop@jujijfib.bv"
+    },
+    "phoneno": {
+      "S": "(582) 578-2094"
+    },
+    "amount": {
+      "S": "$1359.62"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "115"
+    },
+    "customername": {
+      "S": "Madge Torres"
+    },
+    "invoicenumber": {
+      "N": "1266"
+    },
+    "city": {
+      "S": "Omafuhe"
+    },
+    "location": {
+      "S": "MD"
+    },
+    "zip": {
+      "N": "37873"
+    },
+    "email": {
+      "S": "buka@zihovujes.gov"
+    },
+    "phoneno": {
+      "S": "(943) 706-3132"
+    },
+    "amount": {
+      "S": "$2677.99"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "116"
+    },
+    "customername": {
+      "S": "Darrell Burgess"
+    },
+    "invoicenumber": {
+      "N": "4085"
+    },
+    "city": {
+      "S": "Dabjucki"
+    },
+    "location": {
+      "S": "NJ"
+    },
+    "zip": {
+      "N": "21514"
+    },
+    "email": {
+      "S": "izi@gelpu.mw"
+    },
+    "phoneno": {
+      "S": "(415) 278-3386"
+    },
+    "amount": {
+      "S": "$1051.19"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "117"
+    },
+    "customername": {
+      "S": "Ivan Martin"
+    },
+    "invoicenumber": {
+      "N": "7127"
+    },
+    "city": {
+      "S": "Garoin"
+    },
+    "location": {
+      "S": "RI"
+    },
+    "zip": {
+      "N": "22198"
+    },
+    "email": {
+      "S": "olmo@kat.eu"
+    },
+    "phoneno": {
+      "S": "(946) 851-8102"
+    },
+    "amount": {
+      "S": "$2190.27"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "118"
+    },
+    "customername": {
+      "S": "Essie Erickson"
+    },
+    "invoicenumber": {
+      "N": "263"
+    },
+    "city": {
+      "S": "Efudocuf"
+    },
+    "location": {
+      "S": "VT"
+    },
+    "zip": {
+      "N": "28785"
+    },
+    "email": {
+      "S": "zaufo@sa.cz"
+    },
+    "phoneno": {
+      "S": "(651) 722-6282"
+    },
+    "amount": {
+      "S": "$994.27"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "119"
+    },
+    "customername": {
+      "S": "Nellie Olson"
+    },
+    "invoicenumber": {
+      "N": "3885"
+    },
+    "city": {
+      "S": "Gudacno"
+    },
+    "location": {
+      "S": "AZ"
+    },
+    "zip": {
+      "N": "68551"
+    },
+    "email": {
+      "S": "gozinaha@jovikdij.km"
+    },
+    "phoneno": {
+      "S": "(804) 613-7413"
+    },
+    "amount": {
+      "S": "$1515.02"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "120"
+    },
+    "customername": {
+      "S": "Lucille Allen"
+    },
+    "invoicenumber": {
+      "N": "8984"
+    },
+    "city": {
+      "S": "Nenkifac"
+    },
+    "location": {
+      "S": "SC"
+    },
+    "zip": {
+      "N": "16849"
+    },
+    "email": {
+      "S": "voejvos@keccu.im"
+    },
+    "phoneno": {
+      "S": "(482) 874-7605"
+    },
+    "amount": {
+      "S": "$4665.85"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "121"
+    },
+    "customername": {
+      "S": "Nina Schultz"
+    },
+    "invoicenumber": {
+      "N": "3718"
+    },
+    "city": {
+      "S": "Feuribav"
+    },
+    "location": {
+      "S": "OK"
+    },
+    "zip": {
+      "N": "79319"
+    },
+    "email": {
+      "S": "beg@redhi.pm"
+    },
+    "phoneno": {
+      "S": "(835) 450-6237"
+    },
+    "amount": {
+      "S": "$7406.67"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "122"
+    },
+    "customername": {
+      "S": "Craig Lowe"
+    },
+    "invoicenumber": {
+      "N": "4744"
+    },
+    "city": {
+      "S": "Sifonaoc"
+    },
+    "location": {
+      "S": "CO"
+    },
+    "zip": {
+      "N": "77255"
+    },
+    "email": {
+      "S": "pad@lika.gl"
+    },
+    "phoneno": {
+      "S": "(981) 947-9089"
+    },
+    "amount": {
+      "S": "$2576.79"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "123"
+    },
+    "customername": {
+      "S": "Susan Murray"
+    },
+    "invoicenumber": {
+      "N": "4075"
+    },
+    "city": {
+      "S": "Filejoti"
+    },
+    "location": {
+      "S": "WA"
+    },
+    "zip": {
+      "N": "96128"
+    },
+    "email": {
+      "S": "curavva@lubuv.th"
+    },
+    "phoneno": {
+      "S": "(644) 246-2466"
+    },
+    "amount": {
+      "S": "$8763.14"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "124"
+    },
+    "customername": {
+      "S": "Elizabeth Bridges"
+    },
+    "invoicenumber": {
+      "N": "7981"
+    },
+    "city": {
+      "S": "Ofoijoge"
+    },
+    "location": {
+      "S": "RI"
+    },
+    "zip": {
+      "N": "78043"
+    },
+    "email": {
+      "S": "oji@liivosa.pe"
+    },
+    "phoneno": {
+      "S": "(624) 743-7829"
+    },
+    "amount": {
+      "S": "$9724.98"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "125"
+    },
+    "customername": {
+      "S": "Hilda Simmons"
+    },
+    "invoicenumber": {
+      "N": "8644"
+    },
+    "city": {
+      "S": "Cilresga"
+    },
+    "location": {
+      "S": "RI"
+    },
+    "zip": {
+      "N": "13578"
+    },
+    "email": {
+      "S": "ov@lo.nl"
+    },
+    "phoneno": {
+      "S": "(410) 469-7562"
+    },
+    "amount": {
+      "S": "$5103.15"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "126"
+    },
+    "customername": {
+      "S": "Carl Spencer"
+    },
+    "invoicenumber": {
+      "N": "3369"
+    },
+    "city": {
+      "S": "Sevniera"
+    },
+    "location": {
+      "S": "OH"
+    },
+    "zip": {
+      "N": "65350"
+    },
+    "email": {
+      "S": "uh@favgoz.ca"
+    },
+    "phoneno": {
+      "S": "(712) 641-2360"
+    },
+    "amount": {
+      "S": "$2258.45"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "127"
+    },
+    "customername": {
+      "S": "Stanley Mathis"
+    },
+    "invoicenumber": {
+      "N": "4407"
+    },
+    "city": {
+      "S": "Bicapup"
+    },
+    "location": {
+      "S": "MD"
+    },
+    "zip": {
+      "N": "16261"
+    },
+    "email": {
+      "S": "feovgaf@bolpaubo.tc"
+    },
+    "phoneno": {
+      "S": "(366) 281-1406"
+    },
+    "amount": {
+      "S": "$2149.73"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "128"
+    },
+    "customername": {
+      "S": "Joshua Boyd"
+    },
+    "invoicenumber": {
+      "N": "4585"
+    },
+    "city": {
+      "S": "Kobdubec"
+    },
+    "location": {
+      "S": "AR"
+    },
+    "zip": {
+      "N": "43715"
+    },
+    "email": {
+      "S": "fefir@udowok.bd"
+    },
+    "phoneno": {
+      "S": "(652) 757-6944"
+    },
+    "amount": {
+      "S": "$741.88"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "129"
+    },
+    "customername": {
+      "S": "Marvin Horton"
+    },
+    "invoicenumber": {
+      "N": "8978"
+    },
+    "city": {
+      "S": "Lolfuhefi"
+    },
+    "location": {
+      "S": "WI"
+    },
+    "zip": {
+      "N": "5163"
+    },
+    "email": {
+      "S": "heunopew@ezveh.tn"
+    },
+    "phoneno": {
+      "S": "(534) 802-7829"
+    },
+    "amount": {
+      "S": "$9593.45"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "130"
+    },
+    "customername": {
+      "S": "Elsie Kelley"
+    },
+    "invoicenumber": {
+      "N": "3973"
+    },
+    "city": {
+      "S": "Ziobvam"
+    },
+    "location": {
+      "S": "WA"
+    },
+    "zip": {
+      "N": "80700"
+    },
+    "email": {
+      "S": "ce@orvez.ru"
+    },
+    "phoneno": {
+      "S": "(307) 418-8879"
+    },
+    "amount": {
+      "S": "$7486.43"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "131"
+    },
+    "customername": {
+      "S": "Katharine Fleming"
+    },
+    "invoicenumber": {
+      "N": "8489"
+    },
+    "city": {
+      "S": "Cokofuz"
+    },
+    "location": {
+      "S": "VT"
+    },
+    "zip": {
+      "N": "52151"
+    },
+    "email": {
+      "S": "ezeh@erug.kg"
+    },
+    "phoneno": {
+      "S": "(864) 558-5666"
+    },
+    "amount": {
+      "S": "$8003.96"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "132"
+    },
+    "customername": {
+      "S": "Gregory Pierce"
+    },
+    "invoicenumber": {
+      "N": "820"
+    },
+    "city": {
+      "S": "Bobsibu"
+    },
+    "location": {
+      "S": "UT"
+    },
+    "zip": {
+      "N": "55885"
+    },
+    "email": {
+      "S": "nabefesi@tekojih.cc"
+    },
+    "phoneno": {
+      "S": "(528) 837-3142"
+    },
+    "amount": {
+      "S": "$3482.30"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "133"
+    },
+    "customername": {
+      "S": "Hunter Simon"
+    },
+    "invoicenumber": {
+      "N": "3089"
+    },
+    "city": {
+      "S": "Uwjawwu"
+    },
+    "location": {
+      "S": "OH"
+    },
+    "zip": {
+      "N": "52825"
+    },
+    "email": {
+      "S": "zu@sugmew.az"
+    },
+    "phoneno": {
+      "S": "(240) 956-8703"
+    },
+    "amount": {
+      "S": "$1347.13"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "134"
+    },
+    "customername": {
+      "S": "Virgie Craig"
+    },
+    "invoicenumber": {
+      "N": "2940"
+    },
+    "city": {
+      "S": "Vovcegok"
+    },
+    "location": {
+      "S": "KY"
+    },
+    "zip": {
+      "N": "82045"
+    },
+    "email": {
+      "S": "siz@vansu.pm"
+    },
+    "phoneno": {
+      "S": "(680) 851-8088"
+    },
+    "amount": {
+      "S": "$6135.57"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "135"
+    },
+    "customername": {
+      "S": "Jesus Jackson"
+    },
+    "invoicenumber": {
+      "N": "9648"
+    },
+    "city": {
+      "S": "Pamujun"
+    },
+    "location": {
+      "S": "KY"
+    },
+    "zip": {
+      "N": "12416"
+    },
+    "email": {
+      "S": "dorfo@ocacul.ml"
+    },
+    "phoneno": {
+      "S": "(964) 522-7662"
+    },
+    "amount": {
+      "S": "$9282.93"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "136"
+    },
+    "customername": {
+      "S": "Daniel Carr"
+    },
+    "invoicenumber": {
+      "N": "9027"
+    },
+    "city": {
+      "S": "Dimcavgi"
+    },
+    "location": {
+      "S": "SD"
+    },
+    "zip": {
+      "N": "50736"
+    },
+    "email": {
+      "S": "upi@cengasel.gm"
+    },
+    "phoneno": {
+      "S": "(551) 420-9912"
+    },
+    "amount": {
+      "S": "$7565.58"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "137"
+    },
+    "customername": {
+      "S": "Isabel King"
+    },
+    "invoicenumber": {
+      "N": "8952"
+    },
+    "city": {
+      "S": "Dajfebven"
+    },
+    "location": {
+      "S": "MI"
+    },
+    "zip": {
+      "N": "51364"
+    },
+    "email": {
+      "S": "pauwju@fad.aw"
+    },
+    "phoneno": {
+      "S": "(876) 587-6621"
+    },
+    "amount": {
+      "S": "$7798.18"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "138"
+    },
+    "customername": {
+      "S": "Mollie Sims"
+    },
+    "invoicenumber": {
+      "N": "3946"
+    },
+    "city": {
+      "S": "Sipuapu"
+    },
+    "location": {
+      "S": "NM"
+    },
+    "zip": {
+      "N": "3950"
+    },
+    "email": {
+      "S": "duwo@zumdel.cr"
+    },
+    "phoneno": {
+      "S": "(832) 580-4198"
+    },
+    "amount": {
+      "S": "$364.40"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "139"
+    },
+    "customername": {
+      "S": "Glen Obrien"
+    },
+    "invoicenumber": {
+      "N": "8888"
+    },
+    "city": {
+      "S": "Zugosle"
+    },
+    "location": {
+      "S": "IA"
+    },
+    "zip": {
+      "N": "2595"
+    },
+    "email": {
+      "S": "waov@wa.mt"
+    },
+    "phoneno": {
+      "S": "(863) 784-1857"
+    },
+    "amount": {
+      "S": "$6807.41"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "140"
+    },
+    "customername": {
+      "S": "Marion Todd"
+    },
+    "invoicenumber": {
+      "N": "493"
+    },
+    "city": {
+      "S": "Apimawofa"
+    },
+    "location": {
+      "S": "MD"
+    },
+    "zip": {
+      "N": "87885"
+    },
+    "email": {
+      "S": "foricihod@ibata.mh"
+    },
+    "phoneno": {
+      "S": "(640) 576-6265"
+    },
+    "amount": {
+      "S": "$2599.37"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "141"
+    },
+    "customername": {
+      "S": "Eleanor Perry"
+    },
+    "invoicenumber": {
+      "N": "5216"
+    },
+    "city": {
+      "S": "Edefivoc"
+    },
+    "location": {
+      "S": "UT"
+    },
+    "zip": {
+      "N": "63948"
+    },
+    "email": {
+      "S": "bemolaut@na.tc"
+    },
+    "phoneno": {
+      "S": "(281) 704-4093"
+    },
+    "amount": {
+      "S": "$5518.48"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "142"
+    },
+    "customername": {
+      "S": "Lucile Dean"
+    },
+    "invoicenumber": {
+      "N": "7044"
+    },
+    "city": {
+      "S": "Dabcove"
+    },
+    "location": {
+      "S": "AR"
+    },
+    "zip": {
+      "N": "8725"
+    },
+    "email": {
+      "S": "eg@uga.jm"
+    },
+    "phoneno": {
+      "S": "(201) 411-9300"
+    },
+    "amount": {
+      "S": "$3795.25"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "143"
+    },
+    "customername": {
+      "S": "Herbert Barrett"
+    },
+    "invoicenumber": {
+      "N": "4229"
+    },
+    "city": {
+      "S": "Rupaku"
+    },
+    "location": {
+      "S": "CA"
+    },
+    "zip": {
+      "N": "91346"
+    },
+    "email": {
+      "S": "vajnucdi@epava.by"
+    },
+    "phoneno": {
+      "S": "(211) 517-8833"
+    },
+    "amount": {
+      "S": "$6757.92"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "144"
+    },
+    "customername": {
+      "S": "Howard Brewer"
+    },
+    "invoicenumber": {
+      "N": "2361"
+    },
+    "city": {
+      "S": "Asasojip"
+    },
+    "location": {
+      "S": "IA"
+    },
+    "zip": {
+      "N": "29698"
+    },
+    "email": {
+      "S": "uja@paozuti.sz"
+    },
+    "phoneno": {
+      "S": "(656) 479-3335"
+    },
+    "amount": {
+      "S": "$6204.09"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "145"
+    },
+    "customername": {
+      "S": "Marcus Washington"
+    },
+    "invoicenumber": {
+      "N": "7462"
+    },
+    "city": {
+      "S": "Ibocifod"
+    },
+    "location": {
+      "S": "CO"
+    },
+    "zip": {
+      "N": "18697"
+    },
+    "email": {
+      "S": "pimzo@uc.bt"
+    },
+    "phoneno": {
+      "S": "(871) 855-1900"
+    },
+    "amount": {
+      "S": "$5105.26"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "146"
+    },
+    "customername": {
+      "S": "Lelia Phelps"
+    },
+    "invoicenumber": {
+      "N": "3050"
+    },
+    "city": {
+      "S": "Gatjoagu"
+    },
+    "location": {
+      "S": "AL"
+    },
+    "zip": {
+      "N": "3265"
+    },
+    "email": {
+      "S": "ozajeditu@og.li"
+    },
+    "phoneno": {
+      "S": "(569) 956-5182"
+    },
+    "amount": {
+      "S": "$9850.45"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "147"
+    },
+    "customername": {
+      "S": "Olivia Kelley"
+    },
+    "invoicenumber": {
+      "N": "6121"
+    },
+    "city": {
+      "S": "Vokitfo"
+    },
+    "location": {
+      "S": "TN"
+    },
+    "zip": {
+      "N": "13556"
+    },
+    "email": {
+      "S": "ipuonudiv@joobbu.cf"
+    },
+    "phoneno": {
+      "S": "(418) 769-1316"
+    },
+    "amount": {
+      "S": "$1976.65"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "148"
+    },
+    "customername": {
+      "S": "Glen Robertson"
+    },
+    "invoicenumber": {
+      "N": "804"
+    },
+    "city": {
+      "S": "Eslatob"
+    },
+    "location": {
+      "S": "NC"
+    },
+    "zip": {
+      "N": "26287"
+    },
+    "email": {
+      "S": "upjavjuh@le.nc"
+    },
+    "phoneno": {
+      "S": "(828) 391-7933"
+    },
+    "amount": {
+      "S": "$7674.02"
+} } } },  { "PutRequest": {
+  "Item": {
+    "customerid": {
+      "N": "149"
+    },
+    "customername": {
+      "S": "Melvin Pittman"
+    },
+    "invoicenumber": {
+      "N": "449"
+    },
+    "city": {
+      "S": "Bisivkud"
+    },
+    "location": {
+      "S": "CA"
+    },
+    "zip": {
+      "N": "86790"
+    },
+    "email": {
+      "S": "lov@cadnobiw.gov"
+    },
+    "phoneno": {
+      "S": "(225) 352-5904"
+    },
+    "amount": {
+      "S": "$3564.19"
+    }
+  }
+}
+}
+]
+}

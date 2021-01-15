@@ -113,7 +113,7 @@ class App extends Component {
             <div className = "container border border-secondary rounded center">
                 <div className = "row">
                     <div className = "col-18">
-                        <h4>Invoice Processing Inc.</h4>
+                        <h4> MIRA - By Avdhoot More </h4>
                     </div>
                 </div>
 

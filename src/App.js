@@ -2,6 +2,11 @@ import React, {Component} from 'react';
 import {Table, Button} from 'reactstrap';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import {faThumbsUp, faThumbsDown, faMoneyCheckAlt, faSearchDollar, faFileImage} from '@fortawesome/free-solid-svg-icons';
+import Amplify from 'aws-amplify';
+import awsconfig from './aws-exports';
+import {AmplifySignOut, withAuthenticator} from '@aws-amplify/ui-react'
+
+Amplify.configure(awsconfig);
 
 class App extends Component {
     state = {
@@ -114,6 +119,7 @@ class App extends Component {
                 <div className = "row">
                     <div className = "col-18">
                         <h4> MIRA - By Avdhoot More </h4>
+                        <AmplifySignOut/>
                     </div>
                 </div>
 
@@ -148,5 +154,5 @@ class App extends Component {
         );
     }
 }
-export default App;
+export default withAuthenticator(App) ;
 
